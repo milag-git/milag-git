@@ -6,10 +6,10 @@ Hi 👋 My name is Sharmila Guntaka
 
 I have been slowly building up my skills for several years towards full-stack .NET development. Currently deepening my skills in DevOps.
 
-* 🌍  I'm based in CT
+<!---* 🌍  I'm based in CT--->
 <!---* ✉️  You can contact me at [guntaka.m.s@gmail.com](mailto:guntaka.m.s@gmail.com)--->
 <!---* 🚀  I'm currently working on [goguservices](https://www.goguservices.com)--->
-* 🧠  I'm learning DevOps
+<!---* 🧠  I'm learning DevOps--->
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
