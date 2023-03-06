@@ -1,10 +1,10 @@
-Hi 👋 My name is Sharmila Guntaka
+S Guntaka
 =================================
 
 .NET Developer
 --------------
 
-I have been slowly building up my skills for several years towards full-stack .NET development. Currently deepening my skills in DevOps.
+<!---I have been slowly building up my skills for several years towards full-stack .NET development. Currently deepening my skills in DevOps.--->
 
 <!---* 🌍  I'm based in CT--->
 <!---* ✉️  You can contact me at [guntaka.m.s@gmail.com](mailto:guntaka.m.s@gmail.com)--->
