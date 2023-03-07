@@ -10,7 +10,7 @@ S Guntaka
 <!---* ✉️  You can contact me at [guntaka.m.s@gmail.com](mailto:guntaka.m.s@gmail.com)--->
 <!---* 🚀  I'm currently working on [goguservices](https://www.goguservices.com)--->
 <!---* 🧠  I'm learning DevOps--->
-* 🤝  I'm open to collaborating on interesting projects
+<!---* 🤝  I'm open to collaborating on interesting projects--->
 
 ### Skills
 
