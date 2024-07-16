@@ -1,4 +1,4 @@
-Sharmila(Mila) G
+Mila G
 =================================
 
 .NET Developer
